@@ -32,7 +32,11 @@ sources:
     date: "2026"
 ---
 
-**Direct answer:** Hookah charcoal is chosen by matching four variables to how you will serve it — cube size, declared ash, burn/heat profile, and ignition type — and then comparing price per session rather than price per kilogram. There is no single "best" charcoal; there is only charcoal that is correctly specified for a lounge, a distributor's shelf, or a home user.
+## Quick Answer
+
+Hookah charcoal is chosen by matching four variables to how it will be served — cube size, declared ash, burn/heat profile, and ignition type — then comparing price per session rather than per kilogram. There is no single "best" charcoal; there is only charcoal correctly specified for a lounge, a distributor's shelf, or a home user. Ash content is the most useful quality signal on a spec sheet, and burn time is a range rather than a fixed number. Natural coconut charcoal requires a coil burner and roughly 5–12 minutes to fully light; quick-light charcoal ignites in under a minute but carries a chemical ignition layer.
+
+**Related data & testing:** [Ash content specification](https://data.guotan.com/specifications/ash-content/) · [Ash test method](https://testing.guotan.com/tests/ash-content/)
 
 ## Key findings
 

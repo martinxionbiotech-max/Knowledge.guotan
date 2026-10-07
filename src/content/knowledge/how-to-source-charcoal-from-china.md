@@ -36,7 +36,11 @@ sources:
     date: "2026"
 ---
 
-**Direct answer:** Sourcing charcoal from China is a qualification problem, not a price problem. The workflow is: verify the legal entity and export licence, obtain independent sample testing, agree a written specification and Incoterms, confirm dangerous-goods shipping capability, and only then place a first container order with a payment structure that protects you if the goods fail.
+## Quick Answer
+
+Sourcing charcoal from China is a qualification problem, not a price problem. The workflow is: verify the legal entity and export licence, obtain independent sample testing, agree a written specification and Incoterms, confirm dangerous-goods shipping capability, and only then place a first container order with a payment structure that protects you if the goods fail. Charcoal ships as UN 1361, Class 4.2 (self-heating) under the IMDG Code. Compliance is destination-specific — EU and US regimes add layers such as EUDR and Section 301.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

@@ -32,7 +32,11 @@ sources:
     date: "2024"
 ---
 
-**Direct answer:** Compare coconut shell charcoal on a fixed set of measurable properties — fixed carbon, ash, moisture, volatile matter, bulk density, size tolerance and impurities — and only accept values that state the test method and laboratory. A spec sheet without a method is a marketing document, not a specification.
+## Quick Answer
+
+Compare coconut shell charcoal on a fixed set of measurable properties — fixed carbon, ash, moisture, volatile matter, bulk density, size tolerance and impurities — and only accept values that state the test method and laboratory. A specification is only comparable when the method and reporting basis match. Batch consistency matters more than a single best value. Coconut shell charcoal is typically low-ash relative to lump wood charcoal, but "typically" is not an enforceable number — specify a maximum.
+
+**Related data & testing:** [Fixed carbon specification](https://data.guotan.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.guotan.com/tests/fixed-carbon/)
 
 ## Key findings
 

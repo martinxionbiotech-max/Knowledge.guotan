@@ -32,7 +32,11 @@ sources:
     date: "2007 (reapproved)"
 ---
 
-**Direct answer:** There is no universal burn time for coconut charcoal. Published figures commonly land in a broad band — roughly 60 to 120 minutes for a 25 mm cube depending on conditions — because burn time is decided by density, cube size, airflow, hardware, bowl design and draw, not by a single product property.
+## Quick Answer
+
+There is no universal burn time for coconut charcoal. Published figures commonly fall in a broad band — roughly 60 to 120 minutes for a 25 mm cube depending on conditions — because burn time is decided by density, cube size, airflow, hardware, bowl design and draw. Mass and density dominate: a larger, denser cube carries more carbon and lasts longer. A burn-time claim without a described test setup is not comparable.
+
+**Related data & testing:** [Burning time specification](https://data.guotan.com/specifications/burning-time/) · [Burning time test method](https://testing.guotan.com/tests/burning-time/)
 
 ## Key findings
 

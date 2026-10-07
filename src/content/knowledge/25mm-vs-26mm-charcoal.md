@@ -28,7 +28,11 @@ sources:
     date: "2024"
 ---
 
-**Direct answer:** 25 mm and 26 mm cubes are close enough to look interchangeable and different enough to change a session. The 26 mm cube carries more mass, so it tends to burn longer and hold heat more stably; the 25 mm cube fits tighter bowls and heat-management devices more easily. The right choice is dictated by your hardware and session length, not by a universal "better".
+## Quick Answer
+
+25 mm and 26 mm cubes are close enough to look interchangeable and different enough to change a session. The 26 mm cube carries roughly 12–13% more material, so it tends to burn longer and hold heat more stably, while the 25 mm cube fits tighter bowls and heat-management devices more easily. Size is nominal: a "25 mm" product is a target dimension inside a tolerance, and if the tolerance is unpublished the specification is incomplete. The right choice is dictated by hardware and session length, not by a universal "better".
+
+**Related data & testing:** [Size tolerance specification](https://data.guotan.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.guotan.com/tests/size-tolerance/)
 
 ## Key findings
 

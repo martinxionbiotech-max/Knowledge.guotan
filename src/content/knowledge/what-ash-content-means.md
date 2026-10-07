@@ -28,7 +28,11 @@ sources:
     date: "2017"
 ---
 
-**Direct answer:** Ash content is the percentage of a charcoal sample that remains as incombustible mineral residue after the combustible material is burned away. Low ash matters because ash residue reduces airflow to the burning coal and is associated with higher pollutant emissions, while high ash also means you are paying to ship material that never produces heat.
+## Quick Answer
+
+Ash content is the percentage of a charcoal sample that remains as incombustible mineral residue after the combustible material is burned away, measured under a standard method such as ASTM D1762. Lower ash generally means less residue and cleaner burning, but acceptable limits depend on product type — EN 1860-2 allows up to 8% ash for lump charcoal and up to 18% for briquettes. High ash means paying to ship material that produces no heat. A single ash number is meaningless without its method and basis.
+
+**Related data & testing:** [Ash content specification](https://data.guotan.com/specifications/ash-content/) · [Ash test method](https://testing.guotan.com/tests/ash-content/)
 
 ## Key findings
 
