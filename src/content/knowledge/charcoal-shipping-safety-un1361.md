@@ -78,4 +78,4 @@ withdrawn. Since the 2025/2026 IMDG Code:
 
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [Charcoal import certifications](/knowledge/charcoal-import-certifications/)
-- [Request a quote](https://guotan.com/request-quote/)
+- [Request a quote](https://guotan.com/contact/)

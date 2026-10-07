@@ -119,4 +119,4 @@ Ash, fixed carbon and burn time vary by feedstock, carbonisation and batch. Publ
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [25 mm vs 26 mm charcoal](/knowledge/25mm-vs-26mm-charcoal/)
 
-Compare product formats on the main site's [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), check burn and ash definitions in the [specification data hub](https://data.guotan.com/), and put your criteria into the [request-quote form](https://guotan.com/request-quote/).
+Compare product formats on the main site's [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), check burn and ash definitions in the [specification data hub](https://data.guotan.com/), and put your criteria into the [contact form](https://guotan.com/contact/).

@@ -13,7 +13,7 @@ export const GET = async () => {
   lines.push('');
   lines.push('Primary site: https://guotan.com/');
   lines.push('Specification data: https://data.guotan.com/');
-  lines.push('RFQ: https://guotan.com/request-quote/');
+  lines.push('RFQ: https://guotan.com/contact/');
   lines.push('');
   lines.push('## Articles');
   lines.push('');

@@ -98,4 +98,4 @@ Moisture changes with ambient humidity and storage, so any value is a snapshot o
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [Charcoal packaging options](/knowledge/charcoal-packaging-options/)
 
-Check the moisture definition in the [specification data hub](https://data.guotan.com/specifications/moisture/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and specify your moisture ceiling in the [request-quote form](https://guotan.com/request-quote/).
+Check the moisture definition in the [specification data hub](https://data.guotan.com/specifications/moisture/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and specify your moisture ceiling in the [contact form](https://guotan.com/contact/).

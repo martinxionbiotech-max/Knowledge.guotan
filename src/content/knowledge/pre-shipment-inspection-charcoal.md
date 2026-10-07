@@ -72,4 +72,4 @@ pictures decide who pays.
 - [Charcoal shipping safety: UN 1361](/knowledge/charcoal-shipping-safety-un1361/)
 - [How to read a Chinese charcoal test report](/knowledge/how-to-read-a-chinese-charcoal-test-report/)
 - [Charcoal size tolerance](/knowledge/charcoal-size-tolerance/)
-- [Request a quote](https://guotan.com/request-quote/)
+- [Request a quote](https://guotan.com/contact/)

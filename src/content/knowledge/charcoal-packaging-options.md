@@ -110,4 +110,4 @@ Formats and weights here are reported industry practice from public supplier lis
 - [Private label charcoal explained](/knowledge/private-label-charcoal/)
 - [Coconut charcoal MOQ](/knowledge/coconut-charcoal-moq/)
 
-Review packaging options on the main site's [packaging page](https://guotan.com/packaging/), check the moisture and size definitions in the [specification data hub](https://data.guotan.com/specifications/moisture/), and confirm a packaging specification through the [request-quote form](https://guotan.com/request-quote/).
+Review packaging options on the main site's [packaging page](https://guotan.com/packaging/), check the moisture and size definitions in the [specification data hub](https://data.guotan.com/specifications/moisture/), and confirm a packaging specification through the [contact form](https://guotan.com/contact/).

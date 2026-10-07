@@ -111,4 +111,4 @@ Documentary requirements and their legal effect vary by market and change freque
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [Private label charcoal explained](/knowledge/private-label-charcoal/)
 
-Review the regulatory notes on the main site's [compliance page](https://guotan.com/compliance/), check methodology definitions in the [specification data hub](https://data.guotan.com/), and request a batch datasheet through the [request-quote form](https://guotan.com/request-quote/).
+Review the regulatory notes on the main site's [compliance page](https://guotan.com/compliance/), check methodology definitions in the [specification data hub](https://data.guotan.com/), and request a batch datasheet through the [contact form](https://guotan.com/contact/).

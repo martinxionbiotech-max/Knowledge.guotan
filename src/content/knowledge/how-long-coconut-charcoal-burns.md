@@ -107,4 +107,4 @@ All figures here are reported ranges from public sources and were not independen
 - [25 mm vs 26 mm charcoal](/knowledge/25mm-vs-26mm-charcoal/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-Check the burn-time definition in the [specification data hub](https://data.guotan.com/specifications/burn-time/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and ask for a test batch through the [request-quote form](https://guotan.com/request-quote/).
+Check the burn-time definition in the [specification data hub](https://data.guotan.com/specifications/burn-time/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and ask for a test batch through the [contact form](https://guotan.com/contact/).

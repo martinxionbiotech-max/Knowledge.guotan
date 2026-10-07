@@ -89,4 +89,4 @@ A calculated value absorbs the uncertainty of every input, and it says nothing a
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Check the fixed-carbon definition in the [specification data hub](https://data.guotan.com/specifications/fixed-carbon/), see the laboratory-side method on the [testing sub-site](https://testing.guotan.com/tests/fixed-carbon/), and confirm your specification in the [request-quote form](https://guotan.com/request-quote/).
+Check the fixed-carbon definition in the [specification data hub](https://data.guotan.com/specifications/fixed-carbon/), see the laboratory-side method on the [testing sub-site](https://testing.guotan.com/tests/fixed-carbon/), and confirm your specification in the [contact form](https://guotan.com/contact/).

@@ -69,4 +69,4 @@ product, not the same process, and not the same price.
 - [Fixed carbon explained](/knowledge/fixed-carbon-explained/)
 - [How coconut shell charcoal is made](/knowledge/how-coconut-shell-charcoal-is-made/)
 - [Product database](https://data.guotan.com/products/)
-- [Request a quote](https://guotan.com/request-quote/)
+- [Request a quote](https://guotan.com/contact/)

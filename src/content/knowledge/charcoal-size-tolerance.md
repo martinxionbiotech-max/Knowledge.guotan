@@ -89,4 +89,4 @@ Tolerance measured at the factory is a snapshot of one sample; breakage and mois
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Check the size-tolerance definition in the [specification data hub](https://data.guotan.com/specifications/size-tolerance/), review size classes on the [main site](https://guotan.com/products/hookah-charcoal/), and request a dimensional summary in the [request-quote form](https://guotan.com/request-quote/).
+Check the size-tolerance definition in the [specification data hub](https://data.guotan.com/specifications/size-tolerance/), review size classes on the [main site](https://guotan.com/products/hookah-charcoal/), and request a dimensional summary in the [contact form](https://guotan.com/contact/).

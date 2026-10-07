@@ -76,4 +76,4 @@ specification is not a price; it is a lottery ticket.
 - [Moisture explained](/knowledge/charcoal-moisture-explained/)
 - [Fixed carbon explained](/knowledge/fixed-carbon-explained/)
 - [Product database](https://data.guotan.com/products/)
-- [Request a quote](https://guotan.com/request-quote/)
+- [Request a quote](https://guotan.com/contact/)

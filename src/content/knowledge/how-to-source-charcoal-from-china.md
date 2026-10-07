@@ -133,4 +133,4 @@ Duty rates, tariff lists, EUDR scope and dangerous-goods rules change frequently
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Review sourcing options on the [main site](https://guotan.com/products/), check specification and compliance fields in the [specification data hub](https://data.guotan.com/), and start a structured enquiry through the [request-quote form](https://guotan.com/request-quote/).
+Review sourcing options on the [main site](https://guotan.com/products/), check specification and compliance fields in the [specification data hub](https://data.guotan.com/), and start a structured enquiry through the [contact form](https://guotan.com/contact/).

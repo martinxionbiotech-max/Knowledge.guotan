@@ -25,6 +25,7 @@ export const site: SiteConfig = {
     { label: 'Buying', href: '/#buying' },
     { label: 'Sourcing', href: '/#sourcing' },
     { label: 'Quality', href: '/#quality' },
+    { label: '← Main Site', href: 'https://guotan.com/', external: true },
   ],
   footerCols: [
     {
@@ -32,7 +33,7 @@ export const site: SiteConfig = {
       links: [
         { label: 'Main site', href: 'https://guotan.com/', external: true },
         { label: 'Products', href: 'https://guotan.com/products/', external: true },
-        { label: 'Request a Quote', href: 'https://guotan.com/request-quote/', external: true },
+        { label: 'Request a Quote', href: 'https://guotan.com/contact/', external: true },
       ],
     },
     {

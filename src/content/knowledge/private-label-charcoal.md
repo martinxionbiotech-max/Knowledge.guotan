@@ -116,4 +116,4 @@ MOQ, lead time and print options vary by supplier and are reported here as indus
 - [Coconut charcoal MOQ](/knowledge/coconut-charcoal-moq/)
 - [Charcoal import certifications](/knowledge/charcoal-import-certifications/)
 
-Start a branded product on the main site's [private label page](https://guotan.com/private-label/), review product formats on the [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), and put your specification into the [request-quote form](https://guotan.com/request-quote/).
+Start a branded product on the main site's [private label page](https://guotan.com/private-label/), review product formats on the [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), and put your specification into the [contact form](https://guotan.com/contact/).
