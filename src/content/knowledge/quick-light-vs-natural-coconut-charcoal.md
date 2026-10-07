@@ -26,6 +26,12 @@ The hookah charcoal market splits into two product families that are not
 substitutes for the same customer. Buying the wrong one for your market is
 the most common first-order mistake a wholesaler makes.
 
+## Quick Answer
+
+Quick-light charcoal is coated with a chemical accelerant so a single flame lights it in seconds, while natural coconut charcoal is compressed shell with no coating and needs a coil burner for roughly 5–12 minutes. Reported burn time runs about 30–45 minutes for quick-light versus 45–90 minutes for natural (a 25 mm class around 60 minutes), with quick-light carrying a reported chemical/metallic taste note and visible sparks. Both are UN 1361 Class 4.2 dangerous goods — the accelerant does not change the shipping class.
+
+**Related data & testing:** [Ignition time specification](https://data.guotan.com/specifications/ignition-time/) · [Ignition time test method](https://testing.guotan.com/tests/ignition-time/)
+
 ## The mechanical difference
 
 **Quick-light charcoal** is coated with a chemical accelerant — public

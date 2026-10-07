@@ -30,6 +30,12 @@ Two suppliers can quote "coconut shell charcoal" at very different prices and
 both be honest. The gap is almost always explained by four material levers.
 Reading a quote without them is like reading a price without a unit.
 
+## Quick Answer
+
+Coconut charcoal prices are driven by four material levers: moisture, volatile matter, ash and fixed carbon. Lower moisture, lower volatiles, lower ash and higher fixed carbon all mean more usable fuel per tonne — and a higher price. Production is concentrated in Southeast Asia (the Philippines, Indonesia, Malaysia, Thailand, Vietnam, Myanmar), with carbonization typically running at 500–700 °C in continuous furnaces, and shell feedstock cost plus freight distance set the floor. A quote is only comparable when all four figures are stated with their test method and reporting basis.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+
 ## The four quality levers
 
 **1. Moisture.** Water is the cheapest thing in a charcoal bag — and the

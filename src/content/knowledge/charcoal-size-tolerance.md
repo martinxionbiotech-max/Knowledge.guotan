@@ -28,7 +28,11 @@ sources:
     date: "2024"
 ---
 
-**Direct answer:** Size tolerance is the permitted deviation of individual charcoal pieces from a nominal size — for example a "25 mm" cube that is allowed to vary by ±0.5 mm. It matters because consistency drives two commercial outcomes at once: how pieces pack into a fixed carton, and how evenly a batch burns. A nominal size without a stated tolerance is an unfinished specification.
+## Quick Answer
+
+Size tolerance is the permitted deviation of individual charcoal pieces from a nominal size — for example a "25 mm" cube that is allowed to vary by ±0.5 mm. It matters because consistency drives two commercial outcomes at once: how pieces pack into a fixed carton, and how evenly a batch burns. A nominal size without a stated tolerance is an unfinished specification.
+
+**Related data & testing:** [Size tolerance specification](https://data.guotan.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.guotan.com/tests/size-tolerance/)
 
 ## Key findings
 

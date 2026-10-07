@@ -28,7 +28,11 @@ sources:
     date: "2025"
 ---
 
-**Direct answer:** An MOQ — minimum order quantity — is the smallest order a supplier will accept, and in charcoal it is almost always expressed in containers rather than tonnes. The reason is economic: a full container amortises production setup, packaging, dangerous-goods paperwork and freight, while a partial order does not. A separate, more binding minimum often comes from the carrier, because dangerous-goods bookings have their own rules.
+## Quick Answer
+
+An MOQ — minimum order quantity — is the smallest order a supplier will accept, and in charcoal it is almost always expressed in containers rather than tonnes. The reason is economic: a full container amortises production setup, packaging, dangerous-goods paperwork and freight, while a partial order does not. A separate, more binding minimum often comes from the carrier, because dangerous-goods bookings have their own rules.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

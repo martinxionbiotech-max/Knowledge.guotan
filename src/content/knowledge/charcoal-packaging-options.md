@@ -32,7 +32,11 @@ sources:
     date: "2025"
 ---
 
-**Direct answer:** Charcoal packaging is a specification decision, not just a box. The format you choose — retail box, bulk bag, or private-label print — sets the moisture protection, the minimum order, the lead time and how many tonnes actually fit a container. There is no single best format; there is the format that matches your market and your logistics.
+## Quick Answer
+
+Charcoal packaging is a specification decision, not just a box. The format you choose — retail box, bulk bag, or private-label print — sets the moisture protection, the minimum order, the lead time and how many tonnes actually fit a container. There is no single best format; there is the format that matches your market and your logistics.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

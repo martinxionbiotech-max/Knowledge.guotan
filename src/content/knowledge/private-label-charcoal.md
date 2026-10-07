@@ -28,7 +28,11 @@ sources:
     date: "2026"
 ---
 
-**Direct answer:** Private label charcoal means taking a standard coconut shell product and putting your brand, artwork and packaging specification on it. The product itself may be identical to what a supplier sells under its own name; what you are buying is the branding, the packaging and the order terms that come with a custom print run — chiefly a higher minimum and a longer lead time.
+## Quick Answer
+
+Private label charcoal means taking a standard coconut shell product and putting your brand, artwork and packaging specification on it. The product may be identical to what a supplier sells under its own name; what you are buying is the branding, the packaging and the order terms that come with a custom print run — chiefly a higher minimum and a longer lead time.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

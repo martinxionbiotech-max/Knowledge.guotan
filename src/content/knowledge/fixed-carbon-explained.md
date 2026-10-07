@@ -32,7 +32,11 @@ sources:
     date: "2024"
 ---
 
-**Direct answer:** Fixed carbon is the solid carbon fraction of a charcoal sample — what is left after moisture, volatile matter and ash are accounted for. It is calculated, not measured directly: fixed carbon = 100% − moisture − volatile matter − ash, on one basis. It is the closest single proxy for how much of the material actually behaves like charcoal, and it correlates with — but does not equal — heat output.
+## Quick Answer
+
+Fixed carbon is the solid carbon fraction of a charcoal sample — what is left after moisture, volatile matter and ash are accounted for. It is calculated, not measured directly: fixed carbon = 100% − moisture − volatile matter − ash, on one basis. It is the closest single proxy for how much of the material actually behaves like charcoal, and it correlates with — but does not equal — heat output.
+
+**Related data & testing:** [Fixed carbon specification](https://data.guotan.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.guotan.com/tests/fixed-carbon/)
 
 ## Key findings
 

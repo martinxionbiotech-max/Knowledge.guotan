@@ -32,7 +32,11 @@ sources:
     date: "2026"
 ---
 
-**Direct answer:** Charcoal is loaded into standard containers either floor-stuffed (bags stacked directly inside) or palletised, with tonnage set by a tug-of-war between weight limits and volume. A 20-foot container of retail-packaged coconut shell charcoal typically carries roughly 17–20 tonnes floor-stuffed and less when palletised; a 40-foot high-cube loads roughly 25–28 tonnes. The real constraint is often not weight but how densely the product packs — and how dangerous-goods rules restrict the load.
+## Quick Answer
+
+Charcoal is loaded into standard containers either floor-stuffed (bags stacked directly inside) or palletised, with tonnage set by a tug-of-war between weight limits and volume. A 20-foot container of retail-packaged coconut shell charcoal typically carries roughly 17–20 tonnes floor-stuffed and less when palletised; a 40-foot high-cube loads roughly 25–28 tonnes. The real constraint is often not weight but how densely the product packs — and how dangerous-goods rules (UN 1361, Class 4.2) restrict the load.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

@@ -30,6 +30,12 @@ Most first-time charcoal buyers assume the product ships like any other cargo.
 It does not. Coconut shell charcoal — hookah cubes included — is a regulated
 dangerous good at sea, and the rules tightened in 2025-2026.
 
+## Quick Answer
+
+Coconut shell charcoal — hookah cubes included — ships as a regulated dangerous good under UN 1361, "Carbon, animal or vegetable origin", Class 4.2 (substances liable to spontaneous combustion), packing group III. Since the 2025/2026 IMDG Code, all charcoal of animal or vegetable origin must be declared and carried as dangerous goods regardless of any prior self-heating test result, and bulk carriage in containers without packaging is no longer an option. A supplier who offers to ship undeclared is proposing an illegal booking. Requirements may vary by carrier and flag state, so verify with your own forwarder; this is logistics context, not legal advice.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+
 ## The classification
 
 | Field | Value |

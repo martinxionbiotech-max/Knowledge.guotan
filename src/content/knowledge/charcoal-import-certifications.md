@@ -32,7 +32,11 @@ sources:
     date: "2026"
 ---
 
-**Direct answer:** There is no single "charcoal certificate." A charcoal import runs on a set of documents that serve different purposes — establishing origin, declaring value, proving transport safety, and (where applicable) demonstrating product testing. Understanding what each document actually proves, and what it does not, is how you avoid paying for paper that carries no weight at the border.
+## Quick Answer
+
+There is no single "charcoal certificate." A charcoal import runs on a set of documents that each prove something different: a certificate of origin covers duty and origin, a third-party test report verifies measured batch properties, and dangerous-goods documents (UN 1361, Class 4.2) are mandatory transport paperwork. What a destination requires is specific — EUDR, REACH and Section 301 duties each do different things, and requirements may apply depending on the destination and change frequently. This describes document categories, not legal advice; confirm the exact document set with your customs broker.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
 
 ## Key findings
 

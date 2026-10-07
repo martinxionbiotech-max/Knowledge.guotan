@@ -28,7 +28,11 @@ sources:
     date: "2024"
 ---
 
-**Direct answer:** Moisture content is the fraction of a charcoal sample that is water rather than fuel. It matters because water does not burn — it costs money to ship, delays ignition, and reduces the usable heat per kilogram. A low moisture figure measured at the factory can rise by the time the goods arrive if the packaging does not keep moisture out.
+## Quick Answer
+
+Moisture content is the fraction of a charcoal sample that is water rather than fuel. It matters because water does not burn — it costs money to ship, delays ignition, and reduces the usable heat per kilogram. A low moisture figure measured at the factory can rise by the time the goods arrive if the packaging does not keep moisture out.
+
+**Related data & testing:** [Moisture specification](https://data.guotan.com/specifications/moisture/) · [Moisture test method](https://testing.guotan.com/tests/moisture/)
 
 ## Key findings
 

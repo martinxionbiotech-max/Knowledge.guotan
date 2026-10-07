@@ -30,6 +30,12 @@ Every charcoal problem is cheaper to catch at the factory or port than after
 arrival. A pre-shipment inspection (PSI) turns a spec sheet into evidence.
 This is the working checklist, in the order problems usually hide.
 
+## Quick Answer
+
+A pre-shipment inspection (PSI) turns a spec sheet into evidence before the container leaves, and every problem is cheaper to catch at the factory or port than after arrival. The core checks are: sample and test the actual batch (moisture and ash at minimum), measure size tolerance cube by cube with a caliper, measure moisture at the point of stuffing, verify packaging integrity and UN 1361 / Class 4.2 dangerous-goods labelling, and photograph the lot with the container number visible. Confirm the inspection terms in your purchase agreement.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+
 ## 1. Sample and test the actual batch
 
 The certificate from last season does not describe this season's container.

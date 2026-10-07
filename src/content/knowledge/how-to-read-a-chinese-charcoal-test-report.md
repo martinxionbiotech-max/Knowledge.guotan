@@ -26,6 +26,12 @@ A Chinese supplier's test report frequently references "GB/T 12496" and a
 sub-number. International buyers who only know ASTM method numbers can miss
 what the certificate actually says — or fail to notice what it does not say.
 
+## Quick Answer
+
+GB/T 12496 is the Chinese national standard family for test methods of wooden activated carbon, with part numbers covering density, particle size, ash, moisture, CTC adsorption, strength, pH and iodine value. It was written for activated carbon, not fuel charcoal — so a hookah briquette report citing GB/T 12496.3 (ash) used an activated-carbon-family method rather than the ASTM D1762 or D3172 proximate-analysis family a fuel buyer normally requests. Before accepting any certificate, check the standard and edition, the product class, the reporting basis, the laboratory identity and the sample linkage.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/tests/)
+
 ## What GB/T 12496 is
 
 GB/T 12496 is the Chinese national standard family for test methods of wooden

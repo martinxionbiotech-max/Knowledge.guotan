@@ -28,7 +28,11 @@ sources:
     date: "2025-12-18"
 ---
 
-**Direct answer:** For hookah charcoal, the chemistry figures — ash, moisture, fixed carbon — tell you what the product *is*, but odor and ignition tell you what the customer *experiences*. A charcoal that lights quickly, glows evenly and adds no taste of its own is the product that keeps a lounge or retail brand alive. These are the two qualities a spec sheet is least able to prove, which is exactly why they must be tested on a sample, in your own setup.
+## Quick Answer
+
+For hookah charcoal, the chemistry figures — ash, moisture, fixed carbon — tell you what the product *is*, but odor and ignition tell you what the customer *experiences*. A charcoal that lights quickly, glows evenly and adds no taste of its own is the product that keeps a lounge or retail brand alive. These are the two qualities a spec sheet is least able to prove, which is exactly why they must be tested on a sample, in your own setup.
+
+**Related data & testing:** [Odor specification](https://data.guotan.com/specifications/odor/) · [Ignition time test method](https://testing.guotan.com/tests/ignition-time/)
 
 ## Key findings
 

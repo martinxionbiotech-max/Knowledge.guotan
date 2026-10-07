@@ -26,6 +26,12 @@ Density is the charcoal spec nobody quotes and everyone feels. A dense cube
 burns longer and steadier; a soft cube crumbles, sparks and finishes early.
 Here is how density connects to the numbers that do appear on datasheets.
 
+## Quick Answer
+
+Pressed shisha charcoal is carbonized shell powder plus a small share of binder, compacted under pressure, and public process references place its working density around 1.2–1.3 tonnes per cubic metre with cube thickness from 8 mm to 30 mm. Higher density means more mass in the same volume, so a dense cube burns longer and steadier, survives handling, and heats more evenly. Density is independent of ash content, and absorbed water adds weight without adding fuel density. A buyer should ask for pressing pressure or measured density and a drop-test result, then confirm by hand.
+
+**Related data & testing:** [Specification database](https://data.guotan.com/) · [Density test method](https://testing.guotan.com/tests/density/)
+
 ## What density means for a pressed briquette
 
 Pressed hookah charcoal is carbonized shell powder plus a small share of
