@@ -31,13 +31,14 @@ const forIntent = (k: string) =>
     .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
 ---
 
-{groups.map((g) => (
+{groups.map((g, i) => (
   <section class="section" id={g.id}>
     <div class="section-head">
+      <p class="section-kicker">{String(i + 1).padStart(2, '0')} · {g.key}</p>
       <h2>{g.title}</h2>
       <p class="meta-line">{g.blurb}</p>
     </div>
-    <div class="grid grid-2">
+    <div class="grid grid-2 card-indexed">
       {forIntent(g.key).map((a) => (
         <article class="card">
           <h3><a href={`/knowledge/${a.data.slug}/`}>{a.data.title}</a></h3>
