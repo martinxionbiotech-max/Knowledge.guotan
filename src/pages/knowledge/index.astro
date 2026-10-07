@@ -1,0 +1,51 @@
+---
+/* CHARCOAL HUB Knowledge — /knowledge/ index (same hub, canonical path). */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KnowledgeIndex from '../../components/KnowledgeIndex.astro';
+import { site } from '../../data/site-config';
+import { SITES, BRAND, BRAND_TAGLINE } from '../../lib/sites';
+import { webSiteJsonLd, organizationJsonLd, breadcrumbJsonLd } from '../../lib/seo';
+
+const canonical = `${SITES.knowledge}/knowledge/`;
+
+const jsonLd = [
+  webSiteJsonLd({
+    id: `${SITES.knowledge}/#website`,
+    name: 'Charcoal Hub Knowledge',
+    description: site.description,
+  }),
+  organizationJsonLd({
+    id: `${SITES.main}/#organization`,
+    name: BRAND,
+    description: BRAND_TAGLINE,
+    logo: `${SITES.main}/logo.svg`,
+  }),
+  breadcrumbJsonLd([
+    { name: 'Home', url: `${SITES.knowledge}/` },
+    { name: 'Knowledge', url: canonical },
+  ]),
+];
+---
+
+<BaseLayout
+  site={site}
+  title="Knowledge library"
+  description="All Charcoal Hub buyer-education articles, grouped by intent: buying decisions, sourcing and logistics, and quality and compliance."
+  canonical={canonical}
+  jsonLd={jsonLd}
+  breadcrumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Knowledge', url: '/knowledge/' },
+  ]}
+>
+  <div class="container">
+    <div class="page-title">
+      <h1>Knowledge library</h1>
+      <p class="lede">
+        Every guide answers a buying question and links to the specification data,
+        product pages and RFQ tools you need to act on it.
+      </p>
+    </div>
+    <KnowledgeIndex />
+  </div>
+</BaseLayout>

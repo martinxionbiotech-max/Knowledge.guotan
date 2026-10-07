@@ -1,0 +1,71 @@
+---
+/* CHARCOAL HUB Knowledge — hub index (root). */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import KnowledgeIndex from '../components/KnowledgeIndex.astro';
+import { site } from '../data/site-config';
+import { SITES, BRAND, BRAND_TAGLINE } from '../lib/sites';
+import { webSiteJsonLd, organizationJsonLd, datasetJsonLd } from '../lib/seo';
+
+const canonical = `${SITES.knowledge}/`;
+
+const jsonLd = [
+  webSiteJsonLd({
+    id: `${SITES.knowledge}/#website`,
+    name: 'Charcoal Hub Knowledge',
+    description: site.description,
+  }),
+  organizationJsonLd({
+    id: `${SITES.main}/#organization`,
+    name: BRAND,
+    description: BRAND_TAGLINE,
+    logo: `${SITES.main}/logo.svg`,
+    sameAs: [SITES.knowledge, SITES.data, SITES.manufacturer, SITES.testing],
+  }),
+  datasetJsonLd({
+    id: `${SITES.knowledge}/#dataset`,
+    name: 'Charcoal Hub Knowledge — buyer education library',
+    description:
+      'A structured library of buyer-education articles on charcoal specification, comparison, sourcing and compliance for global B2B buyers.',
+    dateModified: '2026-10-07',
+  }),
+];
+---
+
+<BaseLayout
+  site={site}
+  title="Charcoal Buyer Knowledge Hub"
+  description="Evidence-based buyer education for B2B charcoal sourcing: choosing hookah charcoal, comparing coconut shell charcoal, reading spec sheets, ash content, burn time, container loading and supplier qualification."
+  canonical={canonical}
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">Knowledge hub · buyer education</p>
+      <h1>Understand charcoal before you buy it.</h1>
+      <p class="lede">
+        Eight cornerstone guides that teach B2B buyers how to compare, verify and source
+        charcoal — written against public regulations, published standards and sourcing
+        practice. No product claims, no fabricated specs.
+      </p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href={`${SITES.main}/request-quote/`} target="_blank" rel="noopener">Request a quote</a>
+        <a class="btn btn-secondary" href={`${SITES.data}/`} target="_blank" rel="noopener">Browse specification data</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+    <KnowledgeIndex />
+  </div>
+
+  <div class="container">
+    <div class="cta-banner">
+      <h2>Ready to compare against a real quotation?</h2>
+      <p>
+        Use these frameworks to build your RFQ, then request pricing from the main
+        Charcoal Hub site. Tell suppliers which specifications you will verify.
+      </p>
+      <a class="btn btn-primary" href={`${SITES.main}/request-quote/`} target="_blank" rel="noopener">Open the RFQ form</a>
+    </div>
+  </div>
+</BaseLayout>

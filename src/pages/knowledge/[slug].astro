@@ -1,0 +1,115 @@
+---
+/* CHARCOAL HUB Knowledge — article renderer. */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { site } from '../../data/site-config';
+import { SITES, BRAND, BRAND_TAGLINE } from '../../lib/sites';
+import { articleJsonLd, breadcrumbJsonLd, organizationJsonLd } from '../../lib/seo';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('knowledge');
+  return articles.map((article) => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const { title, description, slug, last_updated, sources, uncertainty } = article.data;
+
+const canonical = `${SITES.knowledge}/knowledge/${slug}/`;
+
+const jsonLd = [
+  articleJsonLd({
+    id: `${canonical}#article`,
+    headline: title,
+    description,
+    datePublished: last_updated,
+    dateModified: last_updated,
+  }),
+  organizationJsonLd({
+    id: `${SITES.main}/#organization`,
+    name: BRAND,
+    description: BRAND_TAGLINE,
+    logo: `${SITES.main}/logo.svg`,
+  }),
+  breadcrumbJsonLd([
+    { name: 'Home', url: `${SITES.knowledge}/` },
+    { name: 'Knowledge', url: `${SITES.knowledge}/knowledge/` },
+    { name: title, url: canonical },
+  ]),
+];
+---
+
+<BaseLayout
+  site={site}
+  title={title}
+  description={description}
+  canonical={canonical}
+  jsonLd={jsonLd}
+  ogType="article"
+  breadcrumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Knowledge', url: '/knowledge/' },
+    { name: title, url: `/knowledge/${slug}/` },
+  ]}
+>
+  <article class="container">
+    <div class="page-title prose">
+      <h1>{title}</h1>
+      <p class="meta-line">
+        <span class="badge badge-muted">{article.data.intent}</span>
+        &nbsp; Updated <time datetime={last_updated}>{last_updated}</time>
+      </p>
+    </div>
+
+    {uncertainty && (
+      <div class="callout-pending">
+        <span class="callout-title">Uncertainty &amp; scope note</span>
+        <p>{uncertainty}</p>
+      </div>
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+
+    <div class="cta-banner">
+      <h2>Request a quotation against these criteria</h2>
+      <p>
+        Take the specification you built here to the Charcoal Hub RFQ form and ask
+        suppliers to confirm it in writing.
+      </p>
+      <a class="btn btn-primary" href={`${SITES.main}/request-quote/`} target="_blank" rel="noopener">Request a quote</a>
+    </div>
+
+    {sources && sources.length > 0 && (
+      <section class="section" aria-labelledby="sources">
+        <div class="section-head">
+          <h2 id="sources">Sources</h2>
+          <p class="meta-line">
+            Public references used in this article. Verification status: {article.data.verification_status ?? 'third-party'}.
+            Last verified {article.data.last_verified ?? last_updated}.
+          </p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Source</th><th>Type</th><th>Date</th></tr>
+            </thead>
+            <tbody>
+              {sources.map((s) => (
+                <tr>
+                  <td><a href={s.url} target="_blank" rel="noopener">{s.name}</a></td>
+                  <td>{s.type}</td>
+                  <td class="spec-value">{s.date ?? '—'}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>

@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site-config';
+import { SITES } from '../lib/sites';
+
+const canonical = `${SITES.knowledge}/404/`;
+---
+
+<BaseLayout
+  site={site}
+  title="Page not found"
+  description="The page you were looking for does not exist on the Charcoal Hub Knowledge hub."
+  canonical={canonical}
+  noindex={true}
+>
+  <div class="container">
+    <div class="page-title">
+      <h1>Page not found</h1>
+      <p class="lede">
+        That URL is not part of the Knowledge hub. Try the article index, or jump to the
+        specification data and RFQ tools.
+      </p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/knowledge/">All articles</a>
+        <a class="btn btn-secondary" href={`${SITES.data}/`} target="_blank" rel="noopener">Specification data</a>
+        <a class="btn btn-secondary" href={`${SITES.main}/request-quote/`} target="_blank" rel="noopener">Request a quote</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

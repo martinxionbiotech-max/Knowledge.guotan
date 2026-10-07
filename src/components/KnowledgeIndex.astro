@@ -1,0 +1,50 @@
+---
+/* Grouped index of the knowledge cornerstone articles, by buying intent. */
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('knowledge');
+
+const groups = [
+  {
+    key: 'buying',
+    id: 'buying',
+    title: 'Buying decisions',
+    blurb: 'Frameworks for choosing and sizing product before you talk price.',
+  },
+  {
+    key: 'sourcing',
+    id: 'sourcing',
+    title: 'Sourcing & logistics',
+    blurb: 'Supplier qualification, order size, and how charcoal actually moves.',
+  },
+  {
+    key: 'quality',
+    id: 'quality',
+    title: 'Quality & compliance',
+    blurb: 'The specifications, metrics, and rules that decide whether goods clear.',
+  },
+] as const;
+
+const forIntent = (k: string) =>
+  articles
+    .filter((a) => a.data.intent === k)
+    .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+---
+
+{groups.map((g) => (
+  <section class="section" id={g.id}>
+    <div class="section-head">
+      <h2>{g.title}</h2>
+      <p class="meta-line">{g.blurb}</p>
+    </div>
+    <div class="grid grid-2">
+      {forIntent(g.key).map((a) => (
+        <article class="card">
+          <h3><a href={`/knowledge/${a.data.slug}/`}>{a.data.title}</a></h3>
+          <p>{a.data.description}</p>
+          <p class="updated">Updated {a.data.last_updated}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+))}
