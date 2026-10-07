@@ -9,7 +9,7 @@ export const GET = async () => {
   const lines: string[] = [];
   lines.push('# Charcoal Hub Knowledge');
   lines.push('');
-  lines.push('> Buyer-education knowledge hub for global B2B charcoal sourcing. Eight cornerstone guides on choosing and comparing hookah and coconut shell charcoal, reading specifications (ash, fixed carbon, burn time), supplier qualification, minimum order quantity, and container loading. Content is written against public regulations, published standards and sourcing practice; no first-party product claims.');
+  lines.push('> Buyer-education knowledge hub for global B2B charcoal sourcing. Fifteen cornerstone guides on choosing and comparing hookah and coconut shell charcoal, reading specifications (ash, fixed carbon, moisture, burn time, size tolerance, odor, ignition), packaging, private label, supplier qualification, minimum order quantity, import certifications, and container loading. Content is written against public regulations, published standards and sourcing practice; no first-party product claims.');
   lines.push('');
   lines.push('Primary site: https://guotan.com/');
   lines.push('Specification data: https://data.guotan.com/');
