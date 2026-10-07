@@ -114,4 +114,4 @@ Reported ranges come from public industry guides and differ between sources beca
 - [How to source charcoal from China](/knowledge/how-to-source-charcoal-from-china/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Review packaging and product options on the [main site](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), check the packing definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and request a load plan through the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+Review packaging and product options on the [main site](https://guotan.com/products/coconut-shell-charcoal/), check the packing definitions in the [specification data hub](https://data.guotan.com/), and request a load plan through the [request-quote form](https://guotan.com/request-quote/).

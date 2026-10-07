@@ -38,7 +38,7 @@ export const GET = () => {
     lines.push('Allow: /');
     lines.push('');
   }
-  lines.push('Sitemap: https://knowledge.chinacharcoalhub.com/sitemap-index.xml');
+  lines.push('Sitemap: https://knowledge.guotan.com/sitemap-index.xml');
   lines.push('');
 
   return new Response(lines.join('\n'), {

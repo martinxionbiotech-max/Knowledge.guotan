@@ -105,4 +105,4 @@ There is no single international specification for hookah charcoal; EN 1860-2 ad
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to source charcoal from China](/knowledge/how-to-source-charcoal-from-china/)
 
-Compare the underlying values in the [specification data hub](https://data.chinacharcoalhub.com/), review product formats on the [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and confirm your required spec in the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+Compare the underlying values in the [specification data hub](https://data.guotan.com/), review product formats on the [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), and confirm your required spec in the [request-quote form](https://guotan.com/request-quote/).

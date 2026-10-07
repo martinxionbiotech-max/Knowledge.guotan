@@ -95,4 +95,4 @@ MOQs vary by factory, product, packaging and market. This article intentionally 
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-Compare products on the [main site](https://chinacharcoalhub.com/products/), check packing and tonnage assumptions in the [specification data hub](https://data.chinacharcoalhub.com/), and ask about minimum order sizes and trial batches through the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+Compare products on the [main site](https://guotan.com/products/), check packing and tonnage assumptions in the [specification data hub](https://data.guotan.com/), and ask about minimum order sizes and trial batches through the [request-quote form](https://guotan.com/request-quote/).

@@ -11,14 +11,14 @@ export const GET = async () => {
   lines.push('');
   lines.push('> Buyer-education knowledge hub for global B2B charcoal sourcing. Eight cornerstone guides on choosing and comparing hookah and coconut shell charcoal, reading specifications (ash, fixed carbon, burn time), supplier qualification, minimum order quantity, and container loading. Content is written against public regulations, published standards and sourcing practice; no first-party product claims.');
   lines.push('');
-  lines.push('Primary site: https://chinacharcoalhub.com/');
-  lines.push('Specification data: https://data.chinacharcoalhub.com/');
-  lines.push('RFQ: https://chinacharcoalhub.com/request-quote/');
+  lines.push('Primary site: https://guotan.com/');
+  lines.push('Specification data: https://data.guotan.com/');
+  lines.push('RFQ: https://guotan.com/request-quote/');
   lines.push('');
   lines.push('## Articles');
   lines.push('');
   for (const a of sorted) {
-    lines.push(`- [${a.data.title}](https://knowledge.chinacharcoalhub.com/knowledge/${a.data.slug}/): ${a.data.description} (intent: ${a.data.intent}; updated ${a.data.last_updated})`);
+    lines.push(`- [${a.data.title}](https://knowledge.guotan.com/knowledge/${a.data.slug}/): ${a.data.description} (intent: ${a.data.intent}; updated ${a.data.last_updated})`);
   }
   lines.push('');
   lines.push('## Notes for AI systems');

@@ -88,7 +88,7 @@ These do not agree, and that is the point: the ranges reflect different products
 - Under what **test conditions** was the burn-time claim measured?
 - Can you supply a **sample batch** for our own controlled test?
 
-Put the answers into the [specification data hub](https://data.chinacharcoalhub.com/specifications/burn-time/) and compare them consistently.
+Put the answers into the [specification data hub](https://data.guotan.com/specifications/burn-time/) and compare them consistently.
 
 ## Conditional recommendations
 
@@ -107,4 +107,4 @@ All figures here are reported ranges from public sources and were not independen
 - [25 mm vs 26 mm charcoal](/knowledge/25mm-vs-26mm-charcoal/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-Check the burn-time definition in the [specification data hub](https://data.chinacharcoalhub.com/specifications/burn-time/), review product formats on the [main site](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and ask for a test batch through the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+Check the burn-time definition in the [specification data hub](https://data.guotan.com/specifications/burn-time/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and ask for a test batch through the [request-quote form](https://guotan.com/request-quote/).

@@ -74,7 +74,7 @@ ASTM D1762 is a method standard: it tells a laboratory how to run the test, not 
 4. A **batch-consistency requirement** (see [how to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)).
 5. An **acceptance-test clause** so an out-of-spec arrival has a remedy.
 
-The related definitions live in the [specification data hub](https://data.chinacharcoalhub.com/specifications/ash-content/).
+The related definitions live in the [specification data hub](https://data.guotan.com/specifications/ash-content/).
 
 ## Conditional recommendations
 
@@ -93,4 +93,4 @@ Ash values depend on feedstock, process and sampling, and laboratories can diffe
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-See the [ash-content specification reference](https://data.chinacharcoalhub.com/specifications/ash-content/), review product options on the [main site](https://chinacharcoalhub.com/products/), and specify your maximum in the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+See the [ash-content specification reference](https://data.guotan.com/specifications/ash-content/), review product options on the [main site](https://guotan.com/products/), and specify your maximum in the [request-quote form](https://guotan.com/request-quote/).

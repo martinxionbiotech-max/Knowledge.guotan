@@ -91,4 +91,4 @@ The trade-offs above are derived from geometry and public industry guidance; the
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 
-Compare product formats on the main site's [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), review size and density definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and request both sizes in the [request-quote form](https://chinacharcoalhub.com/request-quote/).
+Compare product formats on the main site's [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), review size and density definitions in the [specification data hub](https://data.guotan.com/), and request both sizes in the [request-quote form](https://guotan.com/request-quote/).
