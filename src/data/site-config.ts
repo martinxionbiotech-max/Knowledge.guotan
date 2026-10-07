@@ -34,6 +34,8 @@ export const site: SiteConfig = {
         { label: 'Main site', href: 'https://guotan.com/', external: true },
         { label: 'Products', href: 'https://guotan.com/products/', external: true },
         { label: 'Request a Quote', href: 'https://guotan.com/contact/', external: true },
+        { label: 'Privacy & Editorial Policy', href: '/privacy/' },
+
       ],
     },
     {
