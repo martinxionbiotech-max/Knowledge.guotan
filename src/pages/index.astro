@@ -2,11 +2,15 @@
 /* CHARCOAL HUB Knowledge — hub index (root). */
 import BaseLayout from '../layouts/BaseLayout.astro';
 import KnowledgeIndex from '../components/KnowledgeIndex.astro';
+import { getCollection } from 'astro:content';
 import { site } from '../data/site-config';
 import { SITES, BRAND, BRAND_TAGLINE } from '../lib/sites';
 import { webSiteJsonLd, organizationJsonLd, datasetJsonLd } from '../lib/seo';
 
 const canonical = `${SITES.knowledge}/`;
+
+const articles = await getCollection('knowledge');
+const articleCount = articles.length;
 
 const jsonLd = [
   webSiteJsonLd({
@@ -45,9 +49,10 @@ const jsonLd = [
           <p class="eyebrow">Knowledge hub · buyer education</p>
           <h1>Understand charcoal before you buy it.</h1>
           <p class="lede">
-            Eight cornerstone guides that teach B2B buyers how to compare, verify and source
-            charcoal — written against public regulations, published standards and sourcing
-            practice. No product claims, no fabricated specs.
+            {articleCount} buyer-education articles — core guides and in-depth
+            explainers — that teach B2B buyers how to compare, verify and source
+            charcoal, written against public regulations, published standards and
+            sourcing practice. No product claims, no fabricated specs.
           </p>
           <div class="cta-row">
             <a class="btn btn-primary" href={`${SITES.main}/contact/`} target="_blank" rel="noopener">Request a quote</a>
