@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Import Certifications: What Documents a Buyer Should Expect"
+title: "Charcoal Import Certifications"
 slug: "charcoal-import-certifications"
 description: "A buyer's guide to the documents behind a charcoal import — certificate of origin, third-party testing, fumigation and destination-country requirements — with the limits of what each document proves."
 intent: "sourcing"

@@ -1,5 +1,5 @@
 ---
-title: "25 mm vs 26 mm Charcoal: What the Size Difference Actually Changes"
+title: "25 mm vs 26 mm Charcoal: What Changes"
 slug: "25mm-vs-26mm-charcoal"
 description: "A buyer's comparison of 25 mm and 26 mm hookah charcoal cubes: dimensional tolerance, heat and burn trade-offs, bowl fit, and packaging implications."
 intent: "buying"

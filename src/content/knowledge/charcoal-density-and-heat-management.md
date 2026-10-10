@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Density and Heat Management: What the Numbers Mean"
+title: "Charcoal Density and Heat Management"
 slug: "charcoal-density-and-heat-management"
 description: "Briquette density, cube size and heat output are linked. How density is stated, why 1.2-1.3 t/m³ is the working range for pressed cubes, and how a buyer uses density to judge burn consistency."
 intent: "quality"
@@ -20,7 +20,7 @@ sources:
     date: "2026"
 ---
 
-# Charcoal Density and Heat Management: What the Numbers Mean
+
 
 Density is the charcoal spec nobody quotes and everyone feels. A dense cube
 burns longer and steadier; a soft cube crumbles, sparks and finishes early.

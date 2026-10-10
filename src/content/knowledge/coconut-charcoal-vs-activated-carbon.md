@@ -1,5 +1,5 @@
 ---
-title: "Coconut Charcoal vs Activated Carbon: Two Products, One Shell"
+title: "Coconut Charcoal vs Activated Carbon"
 slug: "coconut-charcoal-vs-activated-carbon"
 description: "Hookah charcoal and coconut activated carbon come from the same shell but are different products with different processes, markets and prices. A guide for buyers who want to avoid confusing the two supply chains."
 intent: "buying"
@@ -24,7 +24,7 @@ sources:
     date: "2026"
 ---
 
-# Coconut Charcoal vs Activated Carbon: Two Products, One Shell
+
 
 The coconut shell feeds two very different product families. Buyers searching
 for hookah charcoal frequently land on activated-carbon suppliers and vice

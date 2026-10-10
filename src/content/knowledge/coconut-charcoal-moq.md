@@ -1,5 +1,5 @@
 ---
-title: "Coconut Charcoal MOQ: What It Means and What Drives It"
+title: "Coconut Charcoal MOQ: What It Means"
 slug: "coconut-charcoal-moq"
 description: "Minimum order quantity explained for charcoal buyers: why MOQs exist, the real cost drivers behind them, and how to negotiate a first order without fabricating supplier terms."
 intent: "sourcing"

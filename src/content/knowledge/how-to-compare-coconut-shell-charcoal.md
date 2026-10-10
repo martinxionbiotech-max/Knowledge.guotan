@@ -1,5 +1,5 @@
 ---
-title: "How to Compare Coconut Shell Charcoal (Spec Sheet Guide)"
+title: "How to Compare Coconut Shell Charcoal"
 slug: "how-to-compare-coconut-shell-charcoal"
 description: "What to compare between coconut shell charcoal suppliers: which specifications matter, how to request and read a spec sheet, and how to judge batch consistency."
 intent: "quality"

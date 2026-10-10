@@ -1,5 +1,5 @@
 ---
-title: "Private Label Charcoal: How to Put Your Brand on a Coconut Charcoal Product"
+title: "Private Label Charcoal"
 slug: "private-label-charcoal"
 description: "What private label charcoal actually involves — the workflow, minimum order quantities, printing options and the regulatory and packaging considerations a brand buyer must manage."
 intent: "sourcing"

@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Size Tolerance: Why ±0.5 mm Matters and How to Check It"
+title: "Charcoal Size Tolerance"
 slug: "charcoal-size-tolerance"
 description: "What size tolerance means for hookah charcoal cubes, why a ±0.5 mm band matters for packaging and burn consistency, and how to verify a supplier's size claim."
 intent: "quality"

@@ -1,5 +1,5 @@
 ---
-title: "What Ash Content Means in Charcoal (and Why Low Ash Matters)"
+title: "What Ash Content Means in Charcoal"
 slug: "what-ash-content-means"
 description: "Ash content explained for charcoal buyers: what the metric measures, how it is tested, why low ash matters for burn and emissions, and what to specify."
 intent: "quality"

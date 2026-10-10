@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Odor and Ignition: What Hookah Buyers Are Really Testing"
+title: "Charcoal Odor and Ignition"
 slug: "charcoal-odor-and-ignition"
 description: "Why odor and ignition behaviour are the experience metrics that decide hookah charcoal acceptance, how they relate to volatile matter and feedstock purity, and how to test them before buying."
 intent: "buying"

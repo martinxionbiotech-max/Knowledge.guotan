@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Container Loading: How It Packs, Weighs and Ships"
+title: "Charcoal Container Loading Guide"
 slug: "charcoal-container-loading"
 description: "How charcoal is loaded into shipping containers: tonnage ranges by container and packaging, packing density, dangerous-goods constraints, and export packaging choices."
 intent: "sourcing"

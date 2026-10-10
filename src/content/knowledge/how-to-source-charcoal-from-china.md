@@ -1,5 +1,5 @@
 ---
-title: "How to Source Charcoal from China: A Buyer's Qualification Workflow"
+title: "How to Source Charcoal from China"
 slug: "how-to-source-charcoal-from-china"
 description: "A step-by-step workflow for sourcing charcoal from China: supplier qualification, sample verification, Incoterms, payment, dangerous-goods shipping and compliance risk."
 intent: "sourcing"

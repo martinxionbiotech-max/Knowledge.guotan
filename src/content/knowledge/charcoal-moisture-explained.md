@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Moisture Explained: Why Water Content Changes Everything"
+title: "Charcoal Moisture Explained"
 slug: "charcoal-moisture-explained"
 description: "What moisture content means in charcoal, how oven-dry testing (ASTM D3173-style) measures it, and why water content affects ignition, burn and your landed cost."
 intent: "quality"

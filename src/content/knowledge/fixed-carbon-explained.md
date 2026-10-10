@@ -1,5 +1,5 @@
 ---
-title: "Fixed Carbon Explained: What It Is and How It Relates to Heat"
+title: "Fixed Carbon Explained"
 slug: "fixed-carbon-explained"
 description: "What fixed carbon means in charcoal, why it is calculated rather than tested, how it relates to calorific value, and how to check a supplier's proximate-analysis figures."
 intent: "quality"

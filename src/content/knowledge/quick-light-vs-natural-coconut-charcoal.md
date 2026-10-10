@@ -1,5 +1,5 @@
 ---
-title: "Quick-Light vs Natural Coconut Charcoal: What the Difference Costs"
+title: "Quick-Light vs Natural Coconut Charcoal"
 slug: "quick-light-vs-natural-coconut-charcoal"
 description: "Quick-light and natural coconut charcoal are different products for different buyers. How the accelerant coating changes ignition, burn time and taste — and why wholesale buyers need to know which one their customers expect."
 intent: "buying"
@@ -20,7 +20,7 @@ sources:
     date: "2026"
 ---
 
-# Quick-Light vs Natural Coconut Charcoal: What the Difference Costs
+
 
 The hookah charcoal market splits into two product families that are not
 substitutes for the same customer. Buying the wrong one for your market is

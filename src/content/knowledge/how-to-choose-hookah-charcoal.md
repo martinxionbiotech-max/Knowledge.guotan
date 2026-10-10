@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Hookah Charcoal: A Buyer Decision Framework"
+title: "How to Choose Hookah Charcoal"
 slug: "how-to-choose-hookah-charcoal"
 description: "A B2B framework for choosing hookah charcoal: size, ash, burn time, odour, ignition, packaging and total cost — with a decision table and conditional recommendations."
 intent: "buying"

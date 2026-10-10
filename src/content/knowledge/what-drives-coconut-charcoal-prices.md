@@ -1,5 +1,5 @@
 ---
-title: "What Drives Coconut Charcoal Prices: The Four Quality Levers"
+title: "What Drives Coconut Charcoal Prices"
 slug: "what-drives-coconut-charcoal-prices"
 description: "The four material levers behind coconut charcoal pricing — moisture, volatile matter, ash and fixed carbon — plus the supply-side geography that sets the floor. A buyer's guide to reading price quotes correctly."
 intent: "sourcing"
@@ -24,7 +24,7 @@ sources:
     date: "2025"
 ---
 
-# What Drives Coconut Charcoal Prices: The Four Quality Levers
+
 
 Two suppliers can quote "coconut shell charcoal" at very different prices and
 both be honest. The gap is almost always explained by four material levers.

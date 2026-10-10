@@ -1,5 +1,5 @@
 ---
-title: "How Coconut Shell Charcoal Is Made: Carbonization Explained"
+title: "How Coconut Shell Charcoal Is Made"
 slug: "how-coconut-shell-charcoal-is-made"
 description: "The carbonization process behind coconut shell charcoal: temperatures, yield ratios, and how process conditions shape fixed carbon, ash and burn behaviour — for buyers who need to evaluate supplier process claims."
 intent: "buying"
@@ -24,7 +24,7 @@ sources:
     date: "2024"
 ---
 
-# How Coconut Shell Charcoal Is Made: Carbonization Explained
+
 
 Every specification on a hookah charcoal data sheet — fixed carbon, ash,
 moisture, burn time — is decided long before packaging, in the carbonization

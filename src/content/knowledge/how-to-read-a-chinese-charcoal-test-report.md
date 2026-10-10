@@ -1,5 +1,5 @@
 ---
-title: "How to Read a Chinese Charcoal Test Report (GB/T 12496 vs ASTM)"
+title: "Reading a Chinese Charcoal Test Report"
 slug: "how-to-read-a-chinese-charcoal-test-report"
 description: "Chinese suppliers often attach test reports referencing GB/T 12496 methods. What that standard family covers, how it maps to the ASTM methods international buyers know, and what to check before accepting a certificate."
 intent: "quality"
@@ -20,7 +20,7 @@ sources:
     date: "2026"
 ---
 
-# How to Read a Chinese Charcoal Test Report (GB/T 12496 vs ASTM)
+
 
 A Chinese supplier's test report frequently references "GB/T 12496" and a
 sub-number. International buyers who only know ASTM method numbers can miss

@@ -1,5 +1,5 @@
 ---
-title: "Pre-Shipment Inspection for Charcoal: What to Check Before the Container Leaves"
+title: "Pre-Shipment Inspection for Charcoal"
 slug: "pre-shipment-inspection-charcoal"
 description: "A practical pre-shipment inspection checklist for charcoal imports: sampling, size check, moisture at origin, packaging integrity, DG labelling and photo documentation — the checks that catch problems before they are on the water."
 intent: "sourcing"
@@ -24,7 +24,7 @@ sources:
     date: "2024-09"
 ---
 
-# Pre-Shipment Inspection for Charcoal: What to Check Before the Container Leaves
+
 
 Every charcoal problem is cheaper to catch at the factory or port than after
 arrival. A pre-shipment inspection (PSI) turns a spec sheet into evidence.

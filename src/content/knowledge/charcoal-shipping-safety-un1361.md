@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Shipping Safety: UN 1361 and Why Your Supplier Must Declare It"
+title: "Charcoal Shipping Safety: UN 1361"
 slug: "charcoal-shipping-safety-un1361"
 description: "Coconut charcoal is a Class 4.2 self-heating substance under UN 1361. What the 2025-2026 IMDG changes mean for buyers, why a mis-declared booking is a supply-chain risk, and what to check before shipment."
 intent: "sourcing"
@@ -24,7 +24,7 @@ sources:
     date: "2025"
 ---
 
-# Charcoal Shipping Safety: UN 1361 and Why Your Supplier Must Declare It
+
 
 Most first-time charcoal buyers assume the product ships like any other cargo.
 It does not. Coconut shell charcoal — hookah cubes included — is a regulated

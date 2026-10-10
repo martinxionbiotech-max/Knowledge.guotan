@@ -1,5 +1,5 @@
 ---
-title: "How Long Does Coconut Charcoal Burn? (And Why It Varies)"
+title: "How Long Does Coconut Charcoal Burn?"
 slug: "how-long-coconut-charcoal-burns"
 description: "Why there is no universal burn-time number for coconut charcoal: the factors that change it, how to compare claims fairly, and what to ask suppliers."
 intent: "quality"

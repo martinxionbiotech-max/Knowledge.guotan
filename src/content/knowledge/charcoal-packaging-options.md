@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Packaging Options: Retail Box, Bulk Bag and Private Label"
+title: "Charcoal Packaging Options"
 slug: "charcoal-packaging-options"
 description: "The packaging formats used for coconut shell charcoal — retail boxes, bulk bags, master cartons and private-label print — and how each affects moisture, cost and container loading."
 intent: "sourcing"

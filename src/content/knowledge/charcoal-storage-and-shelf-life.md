@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Storage and Shelf Life: How Long It Lasts and What Ruins It"
+title: "Charcoal Storage and Shelf Life"
 slug: "charcoal-storage-and-shelf-life"
 description: "Charcoal has no expiry date, but it has a decay date. How moisture, sunlight and packaging decide usable shelf life, why sealed storage is quoted at 24 months, and how to store stock in the warehouse."
 intent: "sourcing"
@@ -20,7 +20,7 @@ sources:
     date: "2026"
 ---
 
-# Charcoal Storage and Shelf Life: How Long It Lasts and What Ruins It
+
 
 Charcoal does not expire the way food does — but it does decay, and the
 mechanism is always the same: water.
