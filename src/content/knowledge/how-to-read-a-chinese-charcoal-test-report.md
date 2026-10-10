@@ -1,5 +1,5 @@
 ---
-title: "Reading a Chinese Charcoal Test Report"
+title: "Reading a Charcoal Test Report"
 slug: "how-to-read-a-chinese-charcoal-test-report"
 description: "Chinese suppliers often attach test reports referencing GB/T 12496 methods. What that standard family covers, how it maps to the ASTM methods international buyers know, and what to check before accepting a certificate."
 intent: "quality"

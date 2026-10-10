@@ -1,5 +1,5 @@
 ---
-title: "Quick-Light vs Natural Coconut Charcoal"
+title: "Quick-Light vs Natural Charcoal"
 slug: "quick-light-vs-natural-coconut-charcoal"
 description: "Quick-light and natural coconut charcoal are different products for different buyers. How the accelerant coating changes ignition, burn time and taste — and why wholesale buyers need to know which one their customers expect."
 intent: "buying"
