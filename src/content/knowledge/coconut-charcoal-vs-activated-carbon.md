@@ -35,7 +35,7 @@ product, not the same process, and not the same price.
 
 Coconut shell charcoal and coconut shell activated carbon come from the same shell but are different products: the fuel burns for heat, while the activated carbon adsorbs molecules. Fuel charcoal is carbonized and formed with a binder, and is judged on ash, moisture, fixed carbon, burn time and odor; activated carbon is additionally activated to open micropores and is judged on iodine number (typically 1,000–1,200 mg/g), CTC, hardness (95–99%) and BET surface area (700–1,000+ m²/g). Activated carbon is priced per tonne of high-value adsorbent, typically far higher than fuel. A supplier quoting one class's spec for the other is a mismatch, not a bargain.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## The fundamental difference
 
@@ -74,5 +74,5 @@ Coconut shell charcoal and coconut shell activated carbon come from the same she
 
 - [Fixed carbon explained](/knowledge/fixed-carbon-explained/)
 - [How coconut shell charcoal is made](/knowledge/how-coconut-shell-charcoal-is-made/)
-- [Product database](https://data.guotan.com/products/)
-- [Request a quote](https://guotan.com/contact/)
+- [Product database](https://data.chinacharcoalhub.com/products/)
+- [Request a quote](https://chinacharcoalhub.com/contact/)

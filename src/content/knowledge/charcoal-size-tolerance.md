@@ -32,7 +32,7 @@ sources:
 
 Size tolerance is the permitted deviation of individual charcoal pieces from a nominal size — for example a "25 mm" cube that is allowed to vary by ±0.5 mm. It matters because consistency drives two commercial outcomes at once: how pieces pack into a fixed carton, and how evenly a batch burns. A nominal size without a stated tolerance is an unfinished specification.
 
-**Related data & testing:** [Size tolerance specification](https://data.guotan.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.guotan.com/tests/size-tolerance/)
+**Related data & testing:** [Size tolerance specification](https://data.chinacharcoalhub.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.chinacharcoalhub.com/tests/size-tolerance/)
 
 ## Key findings
 
@@ -93,4 +93,4 @@ Tolerance measured at the factory is a snapshot of one sample; breakage and mois
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Check the size-tolerance definition in the [specification data hub](https://data.guotan.com/specifications/size-tolerance/), review size classes on the [main site](https://guotan.com/products/hookah-charcoal/), and request a dimensional summary in the [contact form](https://guotan.com/contact/).
+Check the size-tolerance definition in the [specification data hub](https://data.chinacharcoalhub.com/specifications/size-tolerance/), review size classes on the [main site](https://chinacharcoalhub.com/products/hookah-charcoal/), and request a dimensional summary in the [contact form](https://chinacharcoalhub.com/contact/).

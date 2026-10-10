@@ -32,7 +32,7 @@ sources:
 
 Moisture content is the fraction of a charcoal sample that is water rather than fuel. It matters because water does not burn — it costs money to ship, delays ignition, and reduces the usable heat per kilogram. A low moisture figure measured at the factory can rise by the time the goods arrive if the packaging does not keep moisture out.
 
-**Related data & testing:** [Moisture specification](https://data.guotan.com/specifications/moisture/) · [Moisture test method](https://testing.guotan.com/tests/moisture/)
+**Related data & testing:** [Moisture specification](https://data.chinacharcoalhub.com/specifications/moisture/) · [Moisture test method](https://testing.chinacharcoalhub.com/tests/moisture/)
 
 ## Key findings
 
@@ -83,7 +83,7 @@ Shelf-life claims (commonly around 24 months) are tied to sealed, dry storage pr
 3. Whether the sample was **sealed and transported** correctly before testing.
 4. An **arrival check** on the landed batch where packaging is not moisture-barrier.
 
-For the full methodology, see the [moisture specification reference](https://data.guotan.com/specifications/moisture/); for the laboratory-side detail, see the [testing sub-site](https://testing.guotan.com/tests/moisture/).
+For the full methodology, see the [moisture specification reference](https://data.chinacharcoalhub.com/specifications/moisture/); for the laboratory-side detail, see the [testing sub-site](https://testing.chinacharcoalhub.com/tests/moisture/).
 
 ## Conditional recommendations
 
@@ -102,4 +102,4 @@ Moisture changes with ambient humidity and storage, so any value is a snapshot o
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [Charcoal packaging options](/knowledge/charcoal-packaging-options/)
 
-Check the moisture definition in the [specification data hub](https://data.guotan.com/specifications/moisture/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and specify your moisture ceiling in the [contact form](https://guotan.com/contact/).
+Check the moisture definition in the [specification data hub](https://data.chinacharcoalhub.com/specifications/moisture/), review product formats on the [main site](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and specify your moisture ceiling in the [contact form](https://chinacharcoalhub.com/contact/).

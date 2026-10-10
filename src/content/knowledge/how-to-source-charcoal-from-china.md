@@ -40,7 +40,7 @@ sources:
 
 Sourcing charcoal from China is a qualification problem, not a price problem. The workflow is: verify the legal entity and export licence, obtain independent sample testing, agree a written specification and Incoterms, confirm dangerous-goods shipping capability, and only then place a first container order with a payment structure that protects you if the goods fail. Charcoal ships as UN 1361, Class 4.2 (self-heating) under the IMDG Code. Compliance is destination-specific — EU and US regimes add layers such as EUDR and Section 301.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## Key findings
 
@@ -137,4 +137,4 @@ Duty rates, tariff lists, EUDR scope and dangerous-goods rules change frequently
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Review sourcing options on the [main site](https://guotan.com/products/), check specification and compliance fields in the [specification data hub](https://data.guotan.com/), and start a structured enquiry through the [contact form](https://guotan.com/contact/).
+Review sourcing options on the [main site](https://chinacharcoalhub.com/products/), check specification and compliance fields in the [specification data hub](https://data.chinacharcoalhub.com/), and start a structured enquiry through the [contact form](https://chinacharcoalhub.com/contact/).

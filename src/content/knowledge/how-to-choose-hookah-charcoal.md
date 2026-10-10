@@ -36,7 +36,7 @@ sources:
 
 Hookah charcoal is chosen by matching four variables to how it will be served — cube size, declared ash, burn/heat profile, and ignition type — then comparing price per session rather than per kilogram. There is no single "best" charcoal; there is only charcoal correctly specified for a lounge, a distributor's shelf, or a home user. Ash content is the most useful quality signal on a spec sheet, and burn time is a range rather than a fixed number. Natural coconut charcoal requires a coil burner and roughly 5–12 minutes to fully light; quick-light charcoal ignites in under a minute but carries a chemical ignition layer.
 
-**Related data & testing:** [Ash content specification](https://data.guotan.com/specifications/ash-content/) · [Ash test method](https://testing.guotan.com/tests/ash-content/)
+**Related data & testing:** [Ash content specification](https://data.chinacharcoalhub.com/specifications/ash-content/) · [Ash test method](https://testing.chinacharcoalhub.com/tests/ash-content/)
 
 ## Key findings
 
@@ -123,4 +123,4 @@ Ash, fixed carbon and burn time vary by feedstock, carbonisation and batch. Publ
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [25 mm vs 26 mm charcoal](/knowledge/25mm-vs-26mm-charcoal/)
 
-Compare product formats on the main site's [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), check burn and ash definitions in the [specification data hub](https://data.guotan.com/), and put your criteria into the [contact form](https://guotan.com/contact/).
+Compare product formats on the main site's [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), check burn and ash definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and put your criteria into the [contact form](https://chinacharcoalhub.com/contact/).

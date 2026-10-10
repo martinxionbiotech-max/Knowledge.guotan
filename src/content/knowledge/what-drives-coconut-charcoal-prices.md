@@ -34,7 +34,7 @@ Reading a quote without them is like reading a price without a unit.
 
 Coconut charcoal prices are driven by four material levers: moisture, volatile matter, ash and fixed carbon. Lower moisture, lower volatiles, lower ash and higher fixed carbon all mean more usable fuel per tonne — and a higher price. Production is concentrated in Southeast Asia (the Philippines, Indonesia, Malaysia, Thailand, Vietnam, Myanmar), with carbonization typically running at 500–700 °C in continuous furnaces, and shell feedstock cost plus freight distance set the floor. A quote is only comparable when all four figures are stated with their test method and reporting basis.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## The four quality levers
 
@@ -81,5 +81,5 @@ specification is not a price; it is a lottery ticket.
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [Moisture explained](/knowledge/charcoal-moisture-explained/)
 - [Fixed carbon explained](/knowledge/fixed-carbon-explained/)
-- [Product database](https://data.guotan.com/products/)
-- [Request a quote](https://guotan.com/contact/)
+- [Product database](https://data.chinacharcoalhub.com/products/)
+- [Request a quote](https://chinacharcoalhub.com/contact/)

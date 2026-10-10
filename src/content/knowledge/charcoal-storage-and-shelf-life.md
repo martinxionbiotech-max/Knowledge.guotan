@@ -29,7 +29,7 @@ mechanism is always the same: water.
 
 Charcoal does not expire the way food does, but it does decay — and the mechanism is always water. Because charcoal is hygroscopic, absorbed moisture adds dead weight, delays ignition and cuts usable heat. Public supplier datasheets quote 24 months of shelf life for hookah charcoal in sealed, dry storage; the conditions in that sentence do all the work. Broken seals, humidity swings, direct sunlight and water contact shorten real life, so store off the floor on pallets and rotate first-in, first-out.
 
-**Related data & testing:** [Moisture specification](https://data.guotan.com/specifications/moisture/) · [Moisture test method](https://testing.guotan.com/tests/moisture/)
+**Related data & testing:** [Moisture specification](https://data.chinacharcoalhub.com/specifications/moisture/) · [Moisture test method](https://testing.chinacharcoalhub.com/tests/moisture/)
 
 ## Why moisture is the whole story
 
@@ -69,4 +69,4 @@ all the work.
 - [Charcoal moisture explained](/knowledge/charcoal-moisture-explained/)
 - [Charcoal packaging options](/knowledge/charcoal-packaging-options/)
 - [Charcoal shipping safety: UN 1361](/knowledge/charcoal-shipping-safety-un1361/)
-- [Request a sample](https://guotan.com/request-sample/)
+- [Request a sample](https://chinacharcoalhub.com/request-sample/)

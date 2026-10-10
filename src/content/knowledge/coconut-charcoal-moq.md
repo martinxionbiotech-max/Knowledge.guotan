@@ -32,7 +32,7 @@ sources:
 
 An MOQ — minimum order quantity — is the smallest order a supplier will accept, and in charcoal it is almost always expressed in containers rather than tonnes. The reason is economic: a full container amortises production setup, packaging, dangerous-goods paperwork and freight, while a partial order does not. A separate, more binding minimum often comes from the carrier, because dangerous-goods bookings have their own rules.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## Key findings
 
@@ -99,4 +99,4 @@ MOQs vary by factory, product, packaging and market. This article intentionally 
 - [Charcoal container loading](/knowledge/charcoal-container-loading/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-Compare products on the [main site](https://guotan.com/products/), check packing and tonnage assumptions in the [specification data hub](https://data.guotan.com/), and ask about minimum order sizes and trial batches through the [contact form](https://guotan.com/contact/).
+Compare products on the [main site](https://chinacharcoalhub.com/products/), check packing and tonnage assumptions in the [specification data hub](https://data.chinacharcoalhub.com/), and ask about minimum order sizes and trial batches through the [contact form](https://chinacharcoalhub.com/contact/).

@@ -32,7 +32,7 @@ sources:
 
 For hookah charcoal, the chemistry figures — ash, moisture, fixed carbon — tell you what the product *is*, but odor and ignition tell you what the customer *experiences*. A charcoal that lights quickly, glows evenly and adds no taste of its own is the product that keeps a lounge or retail brand alive. These are the two qualities a spec sheet is least able to prove, which is exactly why they must be tested on a sample, in your own setup.
 
-**Related data & testing:** [Odor specification](https://data.guotan.com/specifications/odor/) · [Ignition time test method](https://testing.guotan.com/tests/ignition-time/)
+**Related data & testing:** [Odor specification](https://data.chinacharcoalhub.com/specifications/odor/) · [Ignition time test method](https://testing.chinacharcoalhub.com/tests/ignition-time/)
 
 ## Key findings
 
@@ -77,7 +77,7 @@ A datasheet can state volatile matter, moisture and ash. It cannot state "smells
 - What is the **moisture** content, and how is it controlled through packaging?
 - Can you supply a **sample batch** for our own controlled session test?
 
-For the underlying definitions, see the [odor specification](https://data.guotan.com/specifications/odor/) and the [ignition-time specification](https://data.guotan.com/specifications/ignition-time/) in the data hub.
+For the underlying definitions, see the [odor specification](https://data.chinacharcoalhub.com/specifications/odor/) and the [ignition-time specification](https://data.chinacharcoalhub.com/specifications/ignition-time/) in the data hub.
 
 ## Conditional recommendations
 
@@ -96,4 +96,4 @@ Odor is sensory and ignition is system-dependent; neither reduces cleanly to a s
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 
-Review product formats on the main site's [hookah charcoal page](https://guotan.com/products/hookah-charcoal/), check the odor and ignition definitions in the [specification data hub](https://data.guotan.com/), and request a sample through the [request-sample form](https://guotan.com/request-sample/).
+Review product formats on the main site's [hookah charcoal page](https://chinacharcoalhub.com/products/hookah-charcoal/), check the odor and ignition definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and request a sample through the [request-sample form](https://chinacharcoalhub.com/request-sample/).

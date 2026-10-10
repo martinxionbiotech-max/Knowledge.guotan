@@ -36,7 +36,7 @@ sources:
 
 There is no universal burn time for coconut charcoal. Published figures commonly fall in a broad band — roughly 60 to 120 minutes for a 25 mm cube depending on conditions — because burn time is decided by density, cube size, airflow, hardware, bowl design and draw. Mass and density dominate: a larger, denser cube carries more carbon and lasts longer. A burn-time claim without a described test setup is not comparable.
 
-**Related data & testing:** [Burning time specification](https://data.guotan.com/specifications/burning-time/) · [Burning time test method](https://testing.guotan.com/tests/burning-time/)
+**Related data & testing:** [Burning time specification](https://data.chinacharcoalhub.com/specifications/burning-time/) · [Burning time test method](https://testing.chinacharcoalhub.com/tests/burning-time/)
 
 ## Key findings
 
@@ -92,7 +92,7 @@ These do not agree, and that is the point: the ranges reflect different products
 - Under what **test conditions** was the burn-time claim measured?
 - Can you supply a **sample batch** for our own controlled test?
 
-Put the answers into the [specification data hub](https://data.guotan.com/specifications/burn-time/) and compare them consistently.
+Put the answers into the [specification data hub](https://data.chinacharcoalhub.com/specifications/burn-time/) and compare them consistently.
 
 ## Conditional recommendations
 
@@ -111,4 +111,4 @@ All figures here are reported ranges from public sources and were not independen
 - [25 mm vs 26 mm charcoal](/knowledge/25mm-vs-26mm-charcoal/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-Check the burn-time definition in the [specification data hub](https://data.guotan.com/specifications/burn-time/), review product formats on the [main site](https://guotan.com/products/coconut-shell-charcoal/), and ask for a test batch through the [contact form](https://guotan.com/contact/).
+Check the burn-time definition in the [specification data hub](https://data.chinacharcoalhub.com/specifications/burn-time/), review product formats on the [main site](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and ask for a test batch through the [contact form](https://chinacharcoalhub.com/contact/).

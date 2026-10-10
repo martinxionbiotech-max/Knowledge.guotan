@@ -35,7 +35,7 @@ critically instead of taking marketing numbers at face value.
 
 Coconut shell charcoal is made in three stages: carbonization (heating clean shells to roughly 600–900 °C with limited oxygen to drive off volatiles), grinding with a small binder share (food-grade tapioca starch for hookah grades), then forming, cutting and drying. Public process references place the shell-to-charcoal yield at roughly 2–2.5 tonnes of shell per tonne of charcoal, with final briquette moisture around 6–8%. Fixed carbon, ash and burn behaviour are set in the carbonization step, so buyers should ask whether a supplier carbonizes in-house or buys carbonized shell powder.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## The process in three stages
 
@@ -81,5 +81,5 @@ cubes — and dried to the target moisture before packaging.
 
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [Fixed carbon explained](/knowledge/fixed-carbon-explained/)
-- [Product database](https://data.guotan.com/products/)
-- [Request a sample](https://guotan.com/request-sample/)
+- [Product database](https://data.chinacharcoalhub.com/products/)
+- [Request a sample](https://chinacharcoalhub.com/request-sample/)

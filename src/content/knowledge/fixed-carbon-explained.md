@@ -36,7 +36,7 @@ sources:
 
 Fixed carbon is the solid carbon fraction of a charcoal sample — what is left after moisture, volatile matter and ash are accounted for. It is calculated, not measured directly: fixed carbon = 100% − moisture − volatile matter − ash, on one basis. It is the closest single proxy for how much of the material actually behaves like charcoal, and it correlates with — but does not equal — heat output.
 
-**Related data & testing:** [Fixed carbon specification](https://data.guotan.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.guotan.com/tests/fixed-carbon/)
+**Related data & testing:** [Fixed carbon specification](https://data.chinacharcoalhub.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.chinacharcoalhub.com/tests/fixed-carbon/)
 
 ## Key findings
 
@@ -93,4 +93,4 @@ A calculated value absorbs the uncertainty of every input, and it says nothing a
 - [What ash content means](/knowledge/what-ash-content-means/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Check the fixed-carbon definition in the [specification data hub](https://data.guotan.com/specifications/fixed-carbon/), see the laboratory-side method on the [testing sub-site](https://testing.guotan.com/tests/fixed-carbon/), and confirm your specification in the [contact form](https://guotan.com/contact/).
+Check the fixed-carbon definition in the [specification data hub](https://data.chinacharcoalhub.com/specifications/fixed-carbon/), see the laboratory-side method on the [testing sub-site](https://testing.chinacharcoalhub.com/tests/fixed-carbon/), and confirm your specification in the [contact form](https://chinacharcoalhub.com/contact/).

@@ -36,7 +36,7 @@ sources:
 
 Charcoal is loaded into standard containers either floor-stuffed (bags stacked directly inside) or palletised, with tonnage set by a tug-of-war between weight limits and volume. A 20-foot container of retail-packaged coconut shell charcoal typically carries roughly 17–20 tonnes floor-stuffed and less when palletised; a 40-foot high-cube loads roughly 25–28 tonnes. The real constraint is often not weight but how densely the product packs — and how dangerous-goods rules (UN 1361, Class 4.2) restrict the load.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## Key findings
 
@@ -118,4 +118,4 @@ Reported ranges come from public industry guides and differ between sources beca
 - [How to source charcoal from China](/knowledge/how-to-source-charcoal-from-china/)
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 
-Review packaging and product options on the [main site](https://guotan.com/products/coconut-shell-charcoal/), check the packing definitions in the [specification data hub](https://data.guotan.com/), and request a load plan through the [contact form](https://guotan.com/contact/).
+Review packaging and product options on the [main site](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), check the packing definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and request a load plan through the [contact form](https://chinacharcoalhub.com/contact/).

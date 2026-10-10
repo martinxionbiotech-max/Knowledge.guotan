@@ -32,7 +32,7 @@ sources:
 
 Private label charcoal means taking a standard coconut shell product and putting your brand, artwork and packaging specification on it. The product may be identical to what a supplier sells under its own name; what you are buying is the branding, the packaging and the order terms that come with a custom print run — chiefly a higher minimum and a longer lead time.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## Key findings
 
@@ -65,7 +65,7 @@ The charcoal is the same product family — coconut shell briquettes in a standa
 7. **Inspection** — check against the agreed spec before shipment.
 8. **Shipment** — export to your destination port.
 
-This is the same discipline as [OEM manufacturing](https://guotan.com/oem/) — the sample-first step is what protects you from a container of product that does not match the picture.
+This is the same discipline as [OEM manufacturing](https://chinacharcoalhub.com/oem/) — the sample-first step is what protects you from a container of product that does not match the picture.
 
 ## Why MOQ jumps when you add print
 
@@ -120,4 +120,4 @@ MOQ, lead time and print options vary by supplier and are reported here as indus
 - [Coconut charcoal MOQ](/knowledge/coconut-charcoal-moq/)
 - [Charcoal import certifications](/knowledge/charcoal-import-certifications/)
 
-Start a branded product on the main site's [private label page](https://guotan.com/private-label/), review product formats on the [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), and put your specification into the [contact form](https://guotan.com/contact/).
+Start a branded product on the main site's [private label page](https://chinacharcoalhub.com/private-label/), review product formats on the [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and put your specification into the [contact form](https://chinacharcoalhub.com/contact/).

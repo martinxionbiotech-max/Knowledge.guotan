@@ -32,7 +32,7 @@ sources:
 
 25 mm and 26 mm cubes are close enough to look interchangeable and different enough to change a session. The 26 mm cube carries roughly 12–13% more material, so it tends to burn longer and hold heat more stably, while the 25 mm cube fits tighter bowls and heat-management devices more easily. Size is nominal: a "25 mm" product is a target dimension inside a tolerance, and if the tolerance is unpublished the specification is incomplete. The right choice is dictated by hardware and session length, not by a universal "better".
 
-**Related data & testing:** [Size tolerance specification](https://data.guotan.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.guotan.com/tests/size-tolerance/)
+**Related data & testing:** [Size tolerance specification](https://data.chinacharcoalhub.com/specifications/size-tolerance/) · [Size tolerance test method](https://testing.chinacharcoalhub.com/tests/size-tolerance/)
 
 ## Key findings
 
@@ -95,4 +95,4 @@ The trade-offs above are derived from geometry and public industry guidance; the
 - [How to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 
-Compare product formats on the main site's [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), review size and density definitions in the [specification data hub](https://data.guotan.com/), and request both sizes in the [contact form](https://guotan.com/contact/).
+Compare product formats on the main site's [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), review size and density definitions in the [specification data hub](https://data.chinacharcoalhub.com/), and request both sizes in the [contact form](https://chinacharcoalhub.com/contact/).

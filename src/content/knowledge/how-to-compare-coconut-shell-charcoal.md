@@ -36,7 +36,7 @@ sources:
 
 Compare coconut shell charcoal on a fixed set of measurable properties — fixed carbon, ash, moisture, volatile matter, bulk density, size tolerance and impurities — and only accept values that state the test method and laboratory. A specification is only comparable when the method and reporting basis match. Batch consistency matters more than a single best value. Coconut shell charcoal is typically low-ash relative to lump wood charcoal, but "typically" is not an enforceable number — specify a maximum.
 
-**Related data & testing:** [Fixed carbon specification](https://data.guotan.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.guotan.com/tests/fixed-carbon/)
+**Related data & testing:** [Fixed carbon specification](https://data.chinacharcoalhub.com/specifications/fixed-carbon/) · [Fixed carbon test method](https://testing.chinacharcoalhub.com/tests/fixed-carbon/)
 
 ## Key findings
 
@@ -109,4 +109,4 @@ There is no single international specification for hookah charcoal; EN 1860-2 ad
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to source charcoal from China](/knowledge/how-to-source-charcoal-from-china/)
 
-Compare the underlying values in the [specification data hub](https://data.guotan.com/), review product formats on the [coconut shell charcoal page](https://guotan.com/products/coconut-shell-charcoal/), and confirm your required spec in the [contact form](https://guotan.com/contact/).
+Compare the underlying values in the [specification data hub](https://data.chinacharcoalhub.com/), review product formats on the [coconut shell charcoal page](https://chinacharcoalhub.com/products/coconut-shell-charcoal/), and confirm your required spec in the [contact form](https://chinacharcoalhub.com/contact/).

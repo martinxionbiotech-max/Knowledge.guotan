@@ -32,7 +32,7 @@ sources:
 
 Ash content is the percentage of a charcoal sample that remains as incombustible mineral residue after the combustible material is burned away, measured under a standard method such as ASTM D1762. Lower ash generally means less residue and cleaner burning, but acceptable limits depend on product type — EN 1860-2 allows up to 8% ash for lump charcoal and up to 18% for briquettes. High ash means paying to ship material that produces no heat. A single ash number is meaningless without its method and basis.
 
-**Related data & testing:** [Ash content specification](https://data.guotan.com/specifications/ash-content/) · [Ash test method](https://testing.guotan.com/tests/ash-content/)
+**Related data & testing:** [Ash content specification](https://data.chinacharcoalhub.com/specifications/ash-content/) · [Ash test method](https://testing.chinacharcoalhub.com/tests/ash-content/)
 
 ## Key findings
 
@@ -78,7 +78,7 @@ ASTM D1762 is a method standard: it tells a laboratory how to run the test, not 
 4. A **batch-consistency requirement** (see [how to compare coconut shell charcoal](/knowledge/how-to-compare-coconut-shell-charcoal/)).
 5. An **acceptance-test clause** so an out-of-spec arrival has a remedy.
 
-The related definitions live in the [specification data hub](https://data.guotan.com/specifications/ash-content/).
+The related definitions live in the [specification data hub](https://data.chinacharcoalhub.com/specifications/ash-content/).
 
 ## Conditional recommendations
 
@@ -97,4 +97,4 @@ Ash values depend on feedstock, process and sampling, and laboratories can diffe
 - [How long coconut charcoal burns](/knowledge/how-long-coconut-charcoal-burns/)
 - [How to choose hookah charcoal](/knowledge/how-to-choose-hookah-charcoal/)
 
-See the [ash-content specification reference](https://data.guotan.com/specifications/ash-content/), review product options on the [main site](https://guotan.com/products/), and specify your maximum in the [contact form](https://guotan.com/contact/).
+See the [ash-content specification reference](https://data.chinacharcoalhub.com/specifications/ash-content/), review product options on the [main site](https://chinacharcoalhub.com/products/), and specify your maximum in the [contact form](https://chinacharcoalhub.com/contact/).

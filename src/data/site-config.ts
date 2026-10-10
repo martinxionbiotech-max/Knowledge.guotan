@@ -25,15 +25,15 @@ export const site: SiteConfig = {
     { label: 'Buying', href: '/#buying' },
     { label: 'Sourcing', href: '/#sourcing' },
     { label: 'Quality', href: '/#quality' },
-    { label: '← Main Site', href: 'https://guotan.com/', external: true },
+    { label: '← Main Site', href: 'https://chinacharcoalhub.com/', external: true },
   ],
   footerCols: [
     {
       title: 'Charcoal Hub',
       links: [
-        { label: 'Main site', href: 'https://guotan.com/', external: true },
-        { label: 'Products', href: 'https://guotan.com/products/', external: true },
-        { label: 'Request a Quote', href: 'https://guotan.com/contact/', external: true },
+        { label: 'Main site', href: 'https://chinacharcoalhub.com/', external: true },
+        { label: 'Products', href: 'https://chinacharcoalhub.com/products/', external: true },
+        { label: 'Request a Quote', href: 'https://chinacharcoalhub.com/contact/', external: true },
         { label: 'Privacy & Editorial Policy', href: '/privacy/' },
 
       ],
@@ -50,9 +50,9 @@ export const site: SiteConfig = {
     {
       title: 'Data & Verification',
       links: [
-        { label: 'Specification data', href: 'https://data.guotan.com/', external: true },
-        { label: 'Manufacturer directory', href: 'https://manufacturer.guotan.com/', external: true },
-        { label: 'Testing & verification', href: 'https://testing.guotan.com/', external: true },
+        { label: 'Specification data', href: 'https://data.chinacharcoalhub.com/', external: true },
+        { label: 'Manufacturer directory', href: 'https://manufacturer.chinacharcoalhub.com/', external: true },
+        { label: 'Testing & verification', href: 'https://testing.chinacharcoalhub.com/', external: true },
       ],
     },
   ],

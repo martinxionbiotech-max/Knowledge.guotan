@@ -36,7 +36,7 @@ sources:
 
 Charcoal packaging is a specification decision, not just a box. The format you choose — retail box, bulk bag, or private-label print — sets the moisture protection, the minimum order, the lead time and how many tonnes actually fit a container. There is no single best format; there is the format that matches your market and your logistics.
 
-**Related data & testing:** [Specification database](https://data.guotan.com/) · [Test methodologies](https://testing.guotan.com/)
+**Related data & testing:** [Specification database](https://data.chinacharcoalhub.com/) · [Test methodologies](https://testing.chinacharcoalhub.com/)
 
 ## Key findings
 
@@ -114,4 +114,4 @@ Formats and weights here are reported industry practice from public supplier lis
 - [Private label charcoal explained](/knowledge/private-label-charcoal/)
 - [Coconut charcoal MOQ](/knowledge/coconut-charcoal-moq/)
 
-Review packaging options on the main site's [packaging page](https://guotan.com/packaging/), check the moisture and size definitions in the [specification data hub](https://data.guotan.com/specifications/moisture/), and confirm a packaging specification through the [contact form](https://guotan.com/contact/).
+Review packaging options on the main site's [packaging page](https://chinacharcoalhub.com/packaging/), check the moisture and size definitions in the [specification data hub](https://data.chinacharcoalhub.com/specifications/moisture/), and confirm a packaging specification through the [contact form](https://chinacharcoalhub.com/contact/).
